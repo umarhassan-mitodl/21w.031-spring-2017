@@ -1,0 +1,37 @@
+leftnav:
+- identifier: bfa33eaf-740c-6b15-4330-2ba484afaf5f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: da23eaf7-182f-9d89-0f5f-962d5b2551de
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 52622ae5-1e08-cda7-1f83-d80cf39cd5c8
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: db69222b-1001-0fe7-6c8f-e350abc553c3
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: dc8c1124-d285-c419-8dee-62aa98c5c95a
+  name: 'Assignment 1: A Critical Review'
+  pageRef: /pages/assignments/assignment-1-a-critical-review
+  parent: db69222b-1001-0fe7-6c8f-e350abc553c3
+  weight: 50
+- identifier: 4c732434-8f86-03ed-1d58-7cc7fb370281
+  name: 'Assignment 2: A Prospectus for a Science Essay'
+  pageRef: /pages/assignments/assignment-2-a-prospectus-for-a-science-essay
+  parent: db69222b-1001-0fe7-6c8f-e350abc553c3
+  weight: 60
+- identifier: e5eaad23-afa8-a30a-ef73-19e435db973d
+  name: 'Assignment 3: A Researched Science Essay for the General Public'
+  pageRef: /pages/assignments/assignment-3-a-researched-science-essay-for-the-general-public
+  parent: db69222b-1001-0fe7-6c8f-e350abc553c3
+  weight: 70
+- identifier: 3599e30b-d419-a4b5-2e4a-dac634dc72ce
+  name: 'Assignment 4: A Proposal'
+  pageRef: /pages/assignments/assignment-4-a-proposal
+  parent: db69222b-1001-0fe7-6c8f-e350abc553c3
+  weight: 80
